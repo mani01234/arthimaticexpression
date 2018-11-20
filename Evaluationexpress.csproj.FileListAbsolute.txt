@@ -1,0 +1,14 @@
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Evaluationexpress.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Evaluationexpress.pdb
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\visualconsole\Evaluationexpress\Evaluationexpress\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\visualconsole\Evaluationexpress\Evaluationexpress\obj\Debug\Evaluationexpress.csprojAssemblyReference.cache
+E:\visualconsole\Evaluationexpress\Evaluationexpress\obj\Debug\Evaluationexpress.csproj.CoreCompileInputs.cache
+E:\visualconsole\Evaluationexpress\Evaluationexpress\obj\Debug\Evaluationexpress.csproj.CopyComplete
+E:\visualconsole\Evaluationexpress\Evaluationexpress\obj\Debug\Evaluationexpress.dll
+E:\visualconsole\Evaluationexpress\Evaluationexpress\obj\Debug\Evaluationexpress.pdb
